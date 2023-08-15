@@ -304,14 +304,3 @@ throughout the example, the regex accurately matches valid email addresses that 
 #### Conclusion
 Character escapes serve a crucial role for ensuring accurately matching text patterns by interpreting special characters as literals. They help suppress the special meanings of metacharacters and represent characters that can't be directly typed. Thereby, ensuring the proper functioning of regex expressions that contribute to reliable email validation. 
 
-## Author
-
-Follow me on Github at [Benjamin Calle](https://github.com/BenjaminCalle). Additional questions or concerns? feel free to contact me.
-
-Until next, see you on the other side!
-
-Deployed GitHub-Gist Link:[Deployed GitHub-Gist Link: Click Here](https://gist.github.com/BenjaminCalle/df5f3d3441f4206d9087f9643ffff91e)
-
-GitHub Repository:[GitHub Repository: Click Here](https://github.com/BenjaminCalle/Regex-in-JavaScript-A-Comprehensive-Tutorial-by-Benjamin-Calle)
-
-© 2023 [Benjamin Calle](https://github.com/BenjaminCalle). Confidential and Proprietary. All Rights Reserved.
